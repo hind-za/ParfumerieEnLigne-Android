@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Accueil mbile projtct</string>
+<!--  Page Panier  -->
+<string name="cart_title">Mon Panier</string>
+<string name="cart_empty_icon">🛒</string>
+<string name="cart_empty_message">Votre panier est vide</string>
+<string name="cart_empty_subtitle">Ajoutez des produits pour commencer</string>
+<!--  Résumé  -->
+<string name="subtotal">Sous-total</string>
+<string name="shipping">Livraison</string>
+<string name="shipping_free">Gratuite</string>
+<string name="total">Total</string>
+<string name="checkout_button">Procéder au paiement</string>
+<!--  Messages  -->
+<string name="item_removed">Article supprimé</string>
+<string name="cart_is_empty">Votre panier est vide</string>
+<string name="redirect_payment">Redirection vers le paiement…</string>
+<!--  Boutons  -->
+<string name="decrease">−</string>
+<string name="increase">+</string>
+<string name="delete">✕</string>
+<!--  Format prix  -->
+<string name="price_format">%.2f DH</string>
+<string name="default_price">0.00 DH</string>
+<!--  Produits (exemples)  -->
+<string name="product_name_placeholder">Nom du produit</string>
+<!--  Navigation  -->
+<string name="home">Accueil</string>
+<string name="categories">Catégories</string>
+<string name="cart">Panier</string>
+<string name="profile">Profil</string>
+
+    <string name="app_logo">Logo de l\'application</string>
+    <string name="back">Retour</string>
+
+    <!-- Messages -->
+    <string name="welcome">Bienvenue !</string>
+    <string name="login_subtitle">Connectez-vous à votre compte</string>
+    <string name="register_title">Créer un compte</string>
+    <string name="register_subtitle">Rejoignez-nous dès maintenant</string>
+
+    <!-- Champs -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="nom_hint">Nom</string>
+    <string name="prenom_hint">Prénom</string>
+    <string name="phone_hint">Téléphone</string>
+    <string name="confirm_password_hint">Confirmer le mot de passe</string>
+
+    <!-- Boutons -->
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_register">S\'inscrire</string>
+
+    <!-- Liens -->
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="no_account">Vous n\'avez pas de compte ? </string>
+    <string name="register_link">S\'inscrire</string>
+    <string name="have_account">Vous avez déjà un compte ? </string>
+    <string name="login_link">Se connecter</string>
+</resources>

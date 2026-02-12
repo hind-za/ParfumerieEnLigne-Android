@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Utilise la couleur surface ou crée une couleur 'input_bg' si voulu -->
+    <solid android:color="@color/surface" />
+    <corners android:radius="28dp" />
+    <!-- petite bordure légère -->
+    <stroke android:width="0.5dp" android:color="@color/white" />
+    <padding android:left="12dp" android:top="8dp" android:right="12dp" android:bottom="8dp" />
+</shape>
